@@ -6,4 +6,4 @@ Breve descripción del proyecto: Este proyecto incluye una página web responsiv
 
 Instrucciones de uso: Para visualizar, abre el archivo index.html en un navegador.
 
-Autor: Creado por Jesús.
+Autor: Creado por Jesús A. Raigón.
